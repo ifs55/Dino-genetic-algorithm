@@ -1,7 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class manage the entire game state.
-"""
+
 from tkinter import Canvas, Tk, mainloop, NW, Label, Frame, W
 from PIL import Image, ImageTk
 from classes.CollisionMonitor import ColisionMonitor
