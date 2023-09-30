@@ -1,7 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class manage the obstacles spawn.
-"""
+
 from tkinter import Canvas, Tk, mainloop
 import random
 from classes.Cactus import Cactus
