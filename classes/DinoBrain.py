@@ -1,8 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class represents the dino decision script. The decisions are made
-by a simple neural net that receives inputs and compute an decision. 
-"""
+
 
 import numpy as np
 
