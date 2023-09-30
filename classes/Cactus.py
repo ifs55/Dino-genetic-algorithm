@@ -1,8 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class represents an obstacle of the cactus type.
-The Dino can't colide with obstacles.
-"""
+
 from tkinter import SW, NW
 from PIL import Image, ImageTk
 import pickle
