@@ -1,8 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class represents the dino.
-The Dino can jump or bend in order to avoid the obstacles.
-"""
+
 from tkinter import NW
 from PIL import Image, ImageTk
 from classes.DinoBrain import DinoBrain
