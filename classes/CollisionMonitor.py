@@ -1,7 +1,4 @@
-"""
-Author: Matheus Santos
-Description: this class monitors the game elements. If a collision is detected, this class must notify the game controller.
-"""
+
 from math import sqrt, pow
 class ColisionMonitor:
     def __init__(self, master, canvas, onCollid, elements = [], obstacles = [], dinosOnScreen = 0):
